@@ -2,9 +2,13 @@
 
 
 // Log all answers to the console and write them to document
+// Please console.log("Question#") followed by console.log(yourAnswer) after each question.
 // =======================================================
 
 //1. Log your name to the console (as a string).
+
+console.log("Question 1");
+console.log(yourAnswer);
 
 //2. Declare a variable called 'name', and then log it to the console.
 
