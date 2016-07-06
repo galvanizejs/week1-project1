@@ -58,14 +58,14 @@ console.log("Question 1");
 
 
 
-// 6. Create an alert.
+// 6. Create an simple alert stating anything you wish. 
 
 
 
 
 
 // 7. Create a prompt that asks a user to pick a number.
-//    Then double the answer.
+//    Then double user's answer.
 
 
 
@@ -74,13 +74,13 @@ console.log("Question 1");
 
 // 8. Ask for a user's name, age and city.
 //    In a single command display/log the sentence:
-//    "My name is...I'm....years old, and I live in....."
+//   "My name is __. I'm __ years old, and I live in __."
 
 
 
 
 
-// 9. Create an alert that uses the response from a prompt.
+// 9. Create an alert that displays the response from a prompt. You can prompt the user for any kind of fun response. 
 
 
 
@@ -88,7 +88,9 @@ console.log("Question 1");
 
 // 10. Create the formula to determine the area of a rectangle.
 //     The rectangle is: 2 inches by 3 inches
+//     Display the result in the console. 
 
 
 
-// 11. Prompt a user for their name. Find the length (number of characters).
+
+// 11. Prompt a user for their name. Find the length (number of characters) of their name and display the result in the console. 
